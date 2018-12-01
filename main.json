@@ -1,0 +1,62 @@
+{
+	"profile":{
+		"img":"lighthouse.jpg",
+		"name":"akhila",
+		"institute":"vignan nirula",
+		"degree":"b.tech",
+		"place":"palakaluru"
+
+	},
+	"career":{
+		"info":"to secure a challenging positionin a reputable organisation to expand my learning knowledge and skills"
+         },
+         "educational":[
+         	{
+         	   "degree":"b.tech",
+         	   "institution":"vignan nirula",
+         	   "yop":"2020"
+         	},
+         	{
+         		"degree":"intermediate",
+         		"institution":"navodaya",
+         		"yop":"2016"
+         	},
+         	{
+         		"degree":"s.s.c",
+         		"institution":"vikas",
+         		"yop":"2014"
+
+         	}
+
+
+         ],
+         "languages":[
+{
+	"lang":"telugu"
+},         	
+{
+	"lang":"english"
+},
+{
+	"lang":"hindi"
+}
+
+
+         ],
+         "skills":[
+         	{
+         		"title":"platforms",
+         		"content":"windows,linux"
+         	},
+         	{
+         		"title":"programming languages",
+         		"content":"c,java,dbms"
+         	},
+         	{
+         		"title":"database",
+         		"content":"mysql"
+         	}
+         ]
+
+
+}         
